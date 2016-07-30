@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\Mahmoud Ibrahim\documents\visual studio 2015\Projects\AI project\AI project\obj\x64\Release\ilc\intermediate\ILTransformed\AI project.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\Mahmoud Ibrahim\documents\visual studio 2015\Projects\AI project\AI project\obj\x64\Release\ilc\intermediate\ILTransformed\AI project.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\Mahmoud Ibrahim\documents\visual studio 2015\Projects\AI project\AI project\obj\x64\Release\ilc\intermediate\ILTransformed\AI project.ilexe"
+/out "C:\Users\Mahmoud Ibrahim\documents\visual studio 2015\Projects\AI project\AI project\obj\x64\Release\ilc\intermediate\MDIL\AI project.mdilexe"
